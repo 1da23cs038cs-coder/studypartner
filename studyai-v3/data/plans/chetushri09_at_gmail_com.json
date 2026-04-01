@@ -1,0 +1,719 @@
+{
+  "plans": [
+    {
+      "title": "Aiml Study Plan",
+      "description": "Personalized beginner plan for Aiml — 4 weeks, 2.0h/day. Generated March 30, 2026 at 05:13 PM.",
+      "subject": "AIML",
+      "difficulty": "beginner",
+      "hoursPerDay": 2.0,
+      "totalDays": 28,
+      "generatedAt": "2026-03-30T17:13:17.828659",
+      "goals": [
+        "Exam preparation"
+      ],
+      "milestones": [
+        "Complete Week 1 — Foundations established",
+        "Reach 50% — Application & Practice mastered",
+        "Final week complete — Aiml mastered ✓"
+      ],
+      "weeks": [
+        {
+          "weekNum": 1,
+          "title": "Foundations of Aiml",
+          "goals": [
+            "Complete all 6 study sessions",
+            "Master: Introduction & Setup",
+            "Review and self-test at end of week"
+          ],
+          "days": [
+            {
+              "dayNum": 1,
+              "title": "Introduction & Setup",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Introduction & Setup",
+                  "type": "lecture",
+                  "duration": 60,
+                  "difficulty": "easy",
+                  "notes": "Review notes within 24 hours to improve retention by 60%"
+                },
+                {
+                  "topic": "Practice: Introduction & Setup",
+                  "type": "practice",
+                  "duration": 60,
+                  "difficulty": "easy",
+                  "notes": "Eliminate distractions — use focus mode on your phone"
+                }
+              ]
+            },
+            {
+              "dayNum": 2,
+              "title": "Variables & Data Types",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Variables & Data Types",
+                  "type": "lecture",
+                  "duration": 48,
+                  "difficulty": "easy",
+                  "notes": "Connect new concepts to what you already know"
+                },
+                {
+                  "topic": "Practice: Variables & Data Types",
+                  "type": "practice",
+                  "duration": 48,
+                  "difficulty": "easy",
+                  "notes": "Get 7-8 hours of sleep — memory consolidates during sleep"
+                },
+                {
+                  "topic": "Revise: Variables & Data Types",
+                  "type": "revision",
+                  "duration": 24,
+                  "difficulty": "medium",
+                  "notes": "Use the Pomodoro technique — 25 min focus, 5 min break"
+                }
+              ]
+            },
+            {
+              "dayNum": 3,
+              "title": "Control Flow (if/else)",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Practice: Control Flow (if/else)",
+                  "type": "practice",
+                  "duration": 72,
+                  "difficulty": "easy",
+                  "notes": "Connect new concepts to what you already know"
+                },
+                {
+                  "topic": "Revise: Control Flow (if/else)",
+                  "type": "revision",
+                  "duration": 48,
+                  "difficulty": "easy",
+                  "notes": "Test yourself with practice problems after each topic"
+                }
+              ]
+            },
+            {
+              "dayNum": 4,
+              "title": "Loops (for/while)",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Loops (for/while)",
+                  "type": "lecture",
+                  "duration": 42,
+                  "difficulty": "easy",
+                  "notes": "Review notes within 24 hours to improve retention by 60%"
+                },
+                {
+                  "topic": "Practice: Loops (for/while)",
+                  "type": "practice",
+                  "duration": 42,
+                  "difficulty": "easy",
+                  "notes": "Get 7-8 hours of sleep — memory consolidates during sleep"
+                },
+                {
+                  "topic": "Revise: Loops (for/while)",
+                  "type": "project",
+                  "duration": 36,
+                  "difficulty": "medium",
+                  "notes": "Use the Pomodoro technique — 25 min focus, 5 min break"
+                }
+              ]
+            },
+            {
+              "dayNum": 5,
+              "title": "Functions & Scope",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Functions & Scope",
+                  "type": "lecture",
+                  "duration": 60,
+                  "difficulty": "easy",
+                  "notes": "Review notes within 24 hours to improve retention by 60%"
+                },
+                {
+                  "topic": "Practice: Functions & Scope",
+                  "type": "practice",
+                  "duration": 60,
+                  "difficulty": "easy",
+                  "notes": "Get 7-8 hours of sleep — memory consolidates during sleep"
+                }
+              ]
+            },
+            {
+              "dayNum": 6,
+              "title": "Lists & Arrays",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Lists & Arrays",
+                  "type": "lecture",
+                  "duration": 48,
+                  "difficulty": "easy",
+                  "notes": "Summarize key points in your own words after each session"
+                },
+                {
+                  "topic": "Practice: Lists & Arrays",
+                  "type": "practice",
+                  "duration": 48,
+                  "difficulty": "easy",
+                  "notes": "Test yourself with practice problems after each topic"
+                },
+                {
+                  "topic": "Revise: Lists & Arrays",
+                  "type": "revision",
+                  "duration": 24,
+                  "difficulty": "medium",
+                  "notes": "Test yourself with practice problems after each topic"
+                }
+              ]
+            },
+            {
+              "dayNum": 7,
+              "title": "Buffer Day — Review & Catch-up",
+              "isBuffer": true,
+              "sessions": [
+                {
+                  "topic": "Review & catch-up",
+                  "type": "buffer",
+                  "duration": 120,
+                  "difficulty": "easy",
+                  "notes": "Connect new concepts to what you already know"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "weekNum": 2,
+          "title": "Core Concepts & Theory",
+          "goals": [
+            "Complete all 6 study sessions",
+            "Master: Dictionaries & Maps",
+            "Review and self-test at end of week"
+          ],
+          "days": [
+            {
+              "dayNum": 8,
+              "title": "Dictionaries & Maps",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Dictionaries & Maps",
+                  "type": "lecture",
+                  "duration": 60,
+                  "difficulty": "easy",
+                  "notes": "Eliminate distractions — use focus mode on your phone"
+                },
+                {
+                  "topic": "Practice: Dictionaries & Maps",
+                  "type": "practice",
+                  "duration": 60,
+                  "difficulty": "easy",
+                  "notes": "Practice active recall instead of passive re-reading"
+                }
+              ]
+            },
+            {
+              "dayNum": 9,
+              "title": "File Handling",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "File Handling",
+                  "type": "lecture",
+                  "duration": 48,
+                  "difficulty": "easy",
+                  "notes": "Review notes within 24 hours to improve retention by 60%"
+                },
+                {
+                  "topic": "Practice: File Handling",
+                  "type": "practice",
+                  "duration": 48,
+                  "difficulty": "easy",
+                  "notes": "Test yourself with practice problems after each topic"
+                },
+                {
+                  "topic": "Revise: File Handling",
+                  "type": "revision",
+                  "duration": 24,
+                  "difficulty": "medium",
+                  "notes": "Eliminate distractions — use focus mode on your phone"
+                }
+              ]
+            },
+            {
+              "dayNum": 10,
+              "title": "Assessment: Error Handling",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Practice test: Error Handling",
+                  "type": "assessment",
+                  "duration": 72,
+                  "difficulty": "medium",
+                  "notes": "Attempt without referring to notes"
+                },
+                {
+                  "topic": "Review incorrect answers",
+                  "type": "revision",
+                  "duration": 48,
+                  "difficulty": "easy",
+                  "notes": "Understand mistakes and revise weak areas"
+                }
+              ]
+            },
+            {
+              "dayNum": 11,
+              "title": "Object-Oriented Basics",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Object-Oriented Basics",
+                  "type": "lecture",
+                  "duration": 42,
+                  "difficulty": "easy",
+                  "notes": "Teach the concept to someone else to reinforce understanding"
+                },
+                {
+                  "topic": "Practice: Object-Oriented Basics",
+                  "type": "practice",
+                  "duration": 42,
+                  "difficulty": "easy",
+                  "notes": "Test yourself with practice problems after each topic"
+                },
+                {
+                  "topic": "Revise: Object-Oriented Basics",
+                  "type": "project",
+                  "duration": 36,
+                  "difficulty": "medium",
+                  "notes": "Teach the concept to someone else to reinforce understanding"
+                }
+              ]
+            },
+            {
+              "dayNum": 12,
+              "title": "Modules & Libraries",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Modules & Libraries",
+                  "type": "lecture",
+                  "duration": 60,
+                  "difficulty": "easy",
+                  "notes": "Test yourself with practice problems after each topic"
+                },
+                {
+                  "topic": "Practice: Modules & Libraries",
+                  "type": "practice",
+                  "duration": 60,
+                  "difficulty": "easy",
+                  "notes": "Review notes within 24 hours to improve retention by 60%"
+                }
+              ]
+            },
+            {
+              "dayNum": 13,
+              "title": "Mini Project",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Mini Project",
+                  "type": "lecture",
+                  "duration": 48,
+                  "difficulty": "easy",
+                  "notes": "Test yourself with practice problems after each topic"
+                },
+                {
+                  "topic": "Practice: Mini Project",
+                  "type": "practice",
+                  "duration": 48,
+                  "difficulty": "easy",
+                  "notes": "Teach the concept to someone else to reinforce understanding"
+                },
+                {
+                  "topic": "Revise: Mini Project",
+                  "type": "revision",
+                  "duration": 24,
+                  "difficulty": "medium",
+                  "notes": "Review notes within 24 hours to improve retention by 60%"
+                }
+              ]
+            },
+            {
+              "dayNum": 14,
+              "title": "Buffer Day — Review & Catch-up",
+              "isBuffer": true,
+              "sessions": [
+                {
+                  "topic": "Review & catch-up",
+                  "type": "buffer",
+                  "duration": 120,
+                  "difficulty": "easy",
+                  "notes": "Summarize key points in your own words after each session"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "weekNum": 3,
+          "title": "Application & Practice",
+          "goals": [
+            "Complete all 6 study sessions",
+            "Master: Code Review & Debugging",
+            "Review and self-test at end of week"
+          ],
+          "days": [
+            {
+              "dayNum": 15,
+              "title": "Code Review & Debugging",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Code Review & Debugging",
+                  "type": "lecture",
+                  "duration": 60,
+                  "difficulty": "easy",
+                  "notes": "Connect new concepts to what you already know"
+                },
+                {
+                  "topic": "Practice: Code Review & Debugging",
+                  "type": "practice",
+                  "duration": 60,
+                  "difficulty": "easy",
+                  "notes": "Summarize key points in your own words after each session"
+                }
+              ]
+            },
+            {
+              "dayNum": 16,
+              "title": "Final Project",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Final Project",
+                  "type": "lecture",
+                  "duration": 48,
+                  "difficulty": "easy",
+                  "notes": "Space your revision sessions — don't cram"
+                },
+                {
+                  "topic": "Practice: Final Project",
+                  "type": "practice",
+                  "duration": 48,
+                  "difficulty": "easy",
+                  "notes": "Create mind maps to visualize connections between topics"
+                },
+                {
+                  "topic": "Revise: Final Project",
+                  "type": "revision",
+                  "duration": 24,
+                  "difficulty": "medium",
+                  "notes": "Test yourself with practice problems after each topic"
+                }
+              ]
+            },
+            {
+              "dayNum": 17,
+              "title": "Aiml — Advanced Practice 15",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Practice: Aiml — Advanced Practice 15",
+                  "type": "practice",
+                  "duration": 72,
+                  "difficulty": "easy",
+                  "notes": "Create mind maps to visualize connections between topics"
+                },
+                {
+                  "topic": "Revise: Aiml — Advanced Practice 15",
+                  "type": "revision",
+                  "duration": 48,
+                  "difficulty": "easy",
+                  "notes": "Get 7-8 hours of sleep — memory consolidates during sleep"
+                }
+              ]
+            },
+            {
+              "dayNum": 18,
+              "title": "Aiml — Deep Dive 15",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Aiml — Deep Dive 15",
+                  "type": "lecture",
+                  "duration": 42,
+                  "difficulty": "easy",
+                  "notes": "Summarize key points in your own words after each session"
+                },
+                {
+                  "topic": "Practice: Aiml — Deep Dive 15",
+                  "type": "practice",
+                  "duration": 42,
+                  "difficulty": "easy",
+                  "notes": "Create mind maps to visualize connections between topics"
+                },
+                {
+                  "topic": "Revise: Aiml — Deep Dive 15",
+                  "type": "project",
+                  "duration": 36,
+                  "difficulty": "medium",
+                  "notes": "Space your revision sessions — don't cram"
+                }
+              ]
+            },
+            {
+              "dayNum": 19,
+              "title": "Assessment: Revision: Error Handling",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Practice test: Revision: Error Handling",
+                  "type": "assessment",
+                  "duration": 72,
+                  "difficulty": "medium",
+                  "notes": "Attempt without referring to notes"
+                },
+                {
+                  "topic": "Review incorrect answers",
+                  "type": "revision",
+                  "duration": 48,
+                  "difficulty": "easy",
+                  "notes": "Understand mistakes and revise weak areas"
+                }
+              ]
+            },
+            {
+              "dayNum": 20,
+              "title": "Aiml — Advanced Practice 18",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Aiml — Advanced Practice 18",
+                  "type": "lecture",
+                  "duration": 48,
+                  "difficulty": "easy",
+                  "notes": "Summarize key points in your own words after each session"
+                },
+                {
+                  "topic": "Practice: Aiml — Advanced Practice 18",
+                  "type": "practice",
+                  "duration": 48,
+                  "difficulty": "easy",
+                  "notes": "Space your revision sessions — don't cram"
+                },
+                {
+                  "topic": "Revise: Aiml — Advanced Practice 18",
+                  "type": "revision",
+                  "duration": 24,
+                  "difficulty": "medium",
+                  "notes": "Break complex topics into smaller, manageable chunks"
+                }
+              ]
+            },
+            {
+              "dayNum": 21,
+              "title": "Buffer Day — Review & Catch-up",
+              "isBuffer": true,
+              "sessions": [
+                {
+                  "topic": "Review & catch-up",
+                  "type": "buffer",
+                  "duration": 120,
+                  "difficulty": "easy",
+                  "notes": "Practice active recall instead of passive re-reading"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "weekNum": 4,
+          "title": "Advanced Topics",
+          "goals": [
+            "Complete all 6 study sessions",
+            "Master: Aiml — Deep Dive 18",
+            "Review and self-test at end of week"
+          ],
+          "days": [
+            {
+              "dayNum": 22,
+              "title": "Aiml — Deep Dive 18",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Aiml — Deep Dive 18",
+                  "type": "lecture",
+                  "duration": 60,
+                  "difficulty": "easy",
+                  "notes": "Space your revision sessions — don't cram"
+                },
+                {
+                  "topic": "Practice: Aiml — Deep Dive 18",
+                  "type": "practice",
+                  "duration": 60,
+                  "difficulty": "easy",
+                  "notes": "Review notes within 24 hours to improve retention by 60%"
+                }
+              ]
+            },
+            {
+              "dayNum": 23,
+              "title": "Revision: Lists & Arrays",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Revision: Lists & Arrays",
+                  "type": "lecture",
+                  "duration": 48,
+                  "difficulty": "easy",
+                  "notes": "Summarize key points in your own words after each session"
+                },
+                {
+                  "topic": "Practice: Revision: Lists & Arrays",
+                  "type": "practice",
+                  "duration": 48,
+                  "difficulty": "easy",
+                  "notes": "Get 7-8 hours of sleep — memory consolidates during sleep"
+                },
+                {
+                  "topic": "Revise: Revision: Lists & Arrays",
+                  "type": "revision",
+                  "duration": 24,
+                  "difficulty": "medium",
+                  "notes": "Create mind maps to visualize connections between topics"
+                }
+              ]
+            },
+            {
+              "dayNum": 24,
+              "title": "Aiml — Advanced Practice 21",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Practice: Aiml — Advanced Practice 21",
+                  "type": "practice",
+                  "duration": 72,
+                  "difficulty": "easy",
+                  "notes": "Create mind maps to visualize connections between topics"
+                },
+                {
+                  "topic": "Revise: Aiml — Advanced Practice 21",
+                  "type": "revision",
+                  "duration": 48,
+                  "difficulty": "easy",
+                  "notes": "Use the Pomodoro technique — 25 min focus, 5 min break"
+                }
+              ]
+            },
+            {
+              "dayNum": 25,
+              "title": "Aiml — Deep Dive 21",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Aiml — Deep Dive 21",
+                  "type": "lecture",
+                  "duration": 42,
+                  "difficulty": "easy",
+                  "notes": "Practice active recall instead of passive re-reading"
+                },
+                {
+                  "topic": "Practice: Aiml — Deep Dive 21",
+                  "type": "practice",
+                  "duration": 42,
+                  "difficulty": "easy",
+                  "notes": "Connect new concepts to what you already know"
+                },
+                {
+                  "topic": "Revise: Aiml — Deep Dive 21",
+                  "type": "project",
+                  "duration": 36,
+                  "difficulty": "medium",
+                  "notes": "Create mind maps to visualize connections between topics"
+                }
+              ]
+            },
+            {
+              "dayNum": 26,
+              "title": "Revision: File Handling",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Revision: File Handling",
+                  "type": "lecture",
+                  "duration": 60,
+                  "difficulty": "easy",
+                  "notes": "Review notes within 24 hours to improve retention by 60%"
+                },
+                {
+                  "topic": "Practice: Revision: File Handling",
+                  "type": "practice",
+                  "duration": 60,
+                  "difficulty": "easy",
+                  "notes": "Connect new concepts to what you already know"
+                }
+              ]
+            },
+            {
+              "dayNum": 27,
+              "title": "Aiml — Advanced Practice 24",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Aiml — Advanced Practice 24",
+                  "type": "lecture",
+                  "duration": 48,
+                  "difficulty": "easy",
+                  "notes": "Space your revision sessions — don't cram"
+                },
+                {
+                  "topic": "Practice: Aiml — Advanced Practice 24",
+                  "type": "practice",
+                  "duration": 48,
+                  "difficulty": "easy",
+                  "notes": "Connect new concepts to what you already know"
+                },
+                {
+                  "topic": "Revise: Aiml — Advanced Practice 24",
+                  "type": "revision",
+                  "duration": 24,
+                  "difficulty": "medium",
+                  "notes": "Break complex topics into smaller, manageable chunks"
+                }
+              ]
+            },
+            {
+              "dayNum": 28,
+              "title": "Buffer Day — Review & Catch-up",
+              "isBuffer": true,
+              "sessions": [
+                {
+                  "topic": "Review & catch-up",
+                  "type": "buffer",
+                  "duration": 120,
+                  "difficulty": "easy",
+                  "notes": "Teach the concept to someone else to reinforce understanding"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "saved_at": "2026-03-30T17:13:17.829283",
+      "plan_id": "plan_1_20260330171317"
+    }
+  ],
+  "active_plan_id": "plan_1_20260330171317",
+  "plan_generated_at": "2026-03-30T17:13:17.829283",
+  "cs_plan_1_20260330171317": {},
+  "md_plan_1_20260330171317": [],
+  "completed_sessions": {},
+  "missed_days": []
+}

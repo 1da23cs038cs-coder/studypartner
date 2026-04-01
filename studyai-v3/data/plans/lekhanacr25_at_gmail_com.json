@@ -1,0 +1,952 @@
+{
+  "plans": [
+    {
+      "title": "Python Study Plan",
+      "description": "Personalized beginner plan for Python — 4 weeks, 2.0h/day. Generated March 19, 2026 at 05:43 PM.",
+      "subject": "python",
+      "difficulty": "beginner",
+      "hoursPerDay": 2.0,
+      "totalDays": 28,
+      "generatedAt": "2026-03-19T17:43:21.957247",
+      "goals": [
+        "Exam preparation"
+      ],
+      "milestones": [
+        "Complete Week 1 — Foundations established",
+        "Reach 50% — Application & Practice mastered",
+        "Final week complete — Python mastered ✓"
+      ],
+      "weeks": [
+        {
+          "weekNum": 1,
+          "title": "Foundations of Python",
+          "goals": [
+            "Complete all 6 study sessions",
+            "Master: Introduction & Setup",
+            "Review and self-test at end of week"
+          ],
+          "days": [
+            {
+              "dayNum": 1,
+              "title": "Introduction & Setup",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Introduction & Setup",
+                  "type": "lecture",
+                  "duration": 60,
+                  "difficulty": "easy",
+                  "notes": "Create mind maps to visualize connections between topics"
+                },
+                {
+                  "topic": "Practice: Introduction & Setup",
+                  "type": "practice",
+                  "duration": 60,
+                  "difficulty": "easy",
+                  "notes": "Get 7-8 hours of sleep — memory consolidates during sleep"
+                }
+              ]
+            },
+            {
+              "dayNum": 2,
+              "title": "Variables & Data Types",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Variables & Data Types",
+                  "type": "lecture",
+                  "duration": 48,
+                  "difficulty": "easy",
+                  "notes": "Teach the concept to someone else to reinforce understanding"
+                },
+                {
+                  "topic": "Practice: Variables & Data Types",
+                  "type": "practice",
+                  "duration": 48,
+                  "difficulty": "easy",
+                  "notes": "Summarize key points in your own words after each session"
+                },
+                {
+                  "topic": "Revise: Variables & Data Types",
+                  "type": "revision",
+                  "duration": 24,
+                  "difficulty": "medium",
+                  "notes": "Create mind maps to visualize connections between topics"
+                }
+              ]
+            },
+            {
+              "dayNum": 3,
+              "title": "Control Flow (if/else)",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Practice: Control Flow (if/else)",
+                  "type": "practice",
+                  "duration": 72,
+                  "difficulty": "easy",
+                  "notes": "Summarize key points in your own words after each session"
+                },
+                {
+                  "topic": "Revise: Control Flow (if/else)",
+                  "type": "revision",
+                  "duration": 48,
+                  "difficulty": "easy",
+                  "notes": "Get 7-8 hours of sleep — memory consolidates during sleep"
+                }
+              ]
+            },
+            {
+              "dayNum": 4,
+              "title": "Loops (for/while)",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Loops (for/while)",
+                  "type": "lecture",
+                  "duration": 42,
+                  "difficulty": "easy",
+                  "notes": "Review notes within 24 hours to improve retention by 60%"
+                },
+                {
+                  "topic": "Practice: Loops (for/while)",
+                  "type": "practice",
+                  "duration": 42,
+                  "difficulty": "easy",
+                  "notes": "Space your revision sessions — don't cram"
+                },
+                {
+                  "topic": "Revise: Loops (for/while)",
+                  "type": "project",
+                  "duration": 36,
+                  "difficulty": "medium",
+                  "notes": "Eliminate distractions — use focus mode on your phone"
+                }
+              ]
+            },
+            {
+              "dayNum": 5,
+              "title": "Functions & Scope",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Functions & Scope",
+                  "type": "lecture",
+                  "duration": 60,
+                  "difficulty": "easy",
+                  "notes": "Review notes within 24 hours to improve retention by 60%"
+                },
+                {
+                  "topic": "Practice: Functions & Scope",
+                  "type": "practice",
+                  "duration": 60,
+                  "difficulty": "easy",
+                  "notes": "Space your revision sessions — don't cram"
+                }
+              ]
+            },
+            {
+              "dayNum": 6,
+              "title": "Lists & Arrays",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Lists & Arrays",
+                  "type": "lecture",
+                  "duration": 48,
+                  "difficulty": "easy",
+                  "notes": "Eliminate distractions — use focus mode on your phone"
+                },
+                {
+                  "topic": "Practice: Lists & Arrays",
+                  "type": "practice",
+                  "duration": 48,
+                  "difficulty": "easy",
+                  "notes": "Test yourself with practice problems after each topic"
+                },
+                {
+                  "topic": "Revise: Lists & Arrays",
+                  "type": "revision",
+                  "duration": 24,
+                  "difficulty": "medium",
+                  "notes": "Create mind maps to visualize connections between topics"
+                }
+              ]
+            },
+            {
+              "dayNum": 7,
+              "title": "Buffer Day — Review & Catch-up",
+              "isBuffer": true,
+              "sessions": [
+                {
+                  "topic": "Review & catch-up",
+                  "type": "buffer",
+                  "duration": 120,
+                  "difficulty": "easy",
+                  "notes": "Break complex topics into smaller, manageable chunks"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "weekNum": 2,
+          "title": "Core Concepts & Theory",
+          "goals": [
+            "Complete all 6 study sessions",
+            "Master: Dictionaries & Maps",
+            "Review and self-test at end of week"
+          ],
+          "days": [
+            {
+              "dayNum": 8,
+              "title": "Dictionaries & Maps",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Dictionaries & Maps",
+                  "type": "lecture",
+                  "duration": 60,
+                  "difficulty": "easy",
+                  "notes": "Practice active recall instead of passive re-reading"
+                },
+                {
+                  "topic": "Practice: Dictionaries & Maps",
+                  "type": "practice",
+                  "duration": 60,
+                  "difficulty": "easy",
+                  "notes": "Review notes within 24 hours to improve retention by 60%"
+                }
+              ]
+            },
+            {
+              "dayNum": 9,
+              "title": "File Handling",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "File Handling",
+                  "type": "lecture",
+                  "duration": 48,
+                  "difficulty": "easy",
+                  "notes": "Test yourself with practice problems after each topic"
+                },
+                {
+                  "topic": "Practice: File Handling",
+                  "type": "practice",
+                  "duration": 48,
+                  "difficulty": "easy",
+                  "notes": "Summarize key points in your own words after each session"
+                },
+                {
+                  "topic": "Revise: File Handling",
+                  "type": "revision",
+                  "duration": 24,
+                  "difficulty": "medium",
+                  "notes": "Get 7-8 hours of sleep — memory consolidates during sleep"
+                }
+              ]
+            },
+            {
+              "dayNum": 10,
+              "title": "Assessment: Error Handling",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Practice test: Error Handling",
+                  "type": "assessment",
+                  "duration": 72,
+                  "difficulty": "medium",
+                  "notes": "Attempt without referring to notes"
+                },
+                {
+                  "topic": "Review incorrect answers",
+                  "type": "revision",
+                  "duration": 48,
+                  "difficulty": "easy",
+                  "notes": "Understand mistakes and revise weak areas"
+                }
+              ]
+            },
+            {
+              "dayNum": 11,
+              "title": "Object-Oriented Basics",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Object-Oriented Basics",
+                  "type": "lecture",
+                  "duration": 42,
+                  "difficulty": "easy",
+                  "notes": "Summarize key points in your own words after each session"
+                },
+                {
+                  "topic": "Practice: Object-Oriented Basics",
+                  "type": "practice",
+                  "duration": 42,
+                  "difficulty": "easy",
+                  "notes": "Space your revision sessions — don't cram"
+                },
+                {
+                  "topic": "Revise: Object-Oriented Basics",
+                  "type": "project",
+                  "duration": 36,
+                  "difficulty": "medium",
+                  "notes": "Connect new concepts to what you already know"
+                }
+              ]
+            },
+            {
+              "dayNum": 12,
+              "title": "Modules & Libraries",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Modules & Libraries",
+                  "type": "lecture",
+                  "duration": 60,
+                  "difficulty": "easy",
+                  "notes": "Create mind maps to visualize connections between topics"
+                },
+                {
+                  "topic": "Practice: Modules & Libraries",
+                  "type": "practice",
+                  "duration": 60,
+                  "difficulty": "easy",
+                  "notes": "Eliminate distractions — use focus mode on your phone"
+                }
+              ]
+            },
+            {
+              "dayNum": 13,
+              "title": "Mini Project",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Mini Project",
+                  "type": "lecture",
+                  "duration": 48,
+                  "difficulty": "easy",
+                  "notes": "Break complex topics into smaller, manageable chunks"
+                },
+                {
+                  "topic": "Practice: Mini Project",
+                  "type": "practice",
+                  "duration": 48,
+                  "difficulty": "easy",
+                  "notes": "Connect new concepts to what you already know"
+                },
+                {
+                  "topic": "Revise: Mini Project",
+                  "type": "revision",
+                  "duration": 24,
+                  "difficulty": "medium",
+                  "notes": "Create mind maps to visualize connections between topics"
+                }
+              ]
+            },
+            {
+              "dayNum": 14,
+              "title": "Buffer Day — Review & Catch-up",
+              "isBuffer": true,
+              "sessions": [
+                {
+                  "topic": "Review & catch-up",
+                  "type": "buffer",
+                  "duration": 120,
+                  "difficulty": "easy",
+                  "notes": "Connect new concepts to what you already know"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "weekNum": 3,
+          "title": "Application & Practice",
+          "goals": [
+            "Complete all 6 study sessions",
+            "Master: Code Review & Debugging",
+            "Review and self-test at end of week"
+          ],
+          "days": [
+            {
+              "dayNum": 15,
+              "title": "Code Review & Debugging",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Code Review & Debugging",
+                  "type": "lecture",
+                  "duration": 60,
+                  "difficulty": "easy",
+                  "notes": "Practice active recall instead of passive re-reading"
+                },
+                {
+                  "topic": "Practice: Code Review & Debugging",
+                  "type": "practice",
+                  "duration": 60,
+                  "difficulty": "easy",
+                  "notes": "Connect new concepts to what you already know"
+                }
+              ]
+            },
+            {
+              "dayNum": 16,
+              "title": "Final Project",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Final Project",
+                  "type": "lecture",
+                  "duration": 48,
+                  "difficulty": "easy",
+                  "notes": "Use the Pomodoro technique — 25 min focus, 5 min break"
+                },
+                {
+                  "topic": "Practice: Final Project",
+                  "type": "practice",
+                  "duration": 48,
+                  "difficulty": "easy",
+                  "notes": "Summarize key points in your own words after each session"
+                },
+                {
+                  "topic": "Revise: Final Project",
+                  "type": "revision",
+                  "duration": 24,
+                  "difficulty": "medium",
+                  "notes": "Get 7-8 hours of sleep — memory consolidates during sleep"
+                }
+              ]
+            },
+            {
+              "dayNum": 17,
+              "title": "Python — Advanced Practice 15",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Practice: Python — Advanced Practice 15",
+                  "type": "practice",
+                  "duration": 72,
+                  "difficulty": "easy",
+                  "notes": "Test yourself with practice problems after each topic"
+                },
+                {
+                  "topic": "Revise: Python — Advanced Practice 15",
+                  "type": "revision",
+                  "duration": 48,
+                  "difficulty": "easy",
+                  "notes": "Practice active recall instead of passive re-reading"
+                }
+              ]
+            },
+            {
+              "dayNum": 18,
+              "title": "Python — Deep Dive 15",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Python — Deep Dive 15",
+                  "type": "lecture",
+                  "duration": 42,
+                  "difficulty": "easy",
+                  "notes": "Practice active recall instead of passive re-reading"
+                },
+                {
+                  "topic": "Practice: Python — Deep Dive 15",
+                  "type": "practice",
+                  "duration": 42,
+                  "difficulty": "easy",
+                  "notes": "Use the Pomodoro technique — 25 min focus, 5 min break"
+                },
+                {
+                  "topic": "Revise: Python — Deep Dive 15",
+                  "type": "project",
+                  "duration": 36,
+                  "difficulty": "medium",
+                  "notes": "Summarize key points in your own words after each session"
+                }
+              ]
+            },
+            {
+              "dayNum": 19,
+              "title": "Assessment: Revision: Code Review & Debugging",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Practice test: Revision: Code Review & Debugging",
+                  "type": "assessment",
+                  "duration": 72,
+                  "difficulty": "medium",
+                  "notes": "Attempt without referring to notes"
+                },
+                {
+                  "topic": "Review incorrect answers",
+                  "type": "revision",
+                  "duration": 48,
+                  "difficulty": "easy",
+                  "notes": "Understand mistakes and revise weak areas"
+                }
+              ]
+            },
+            {
+              "dayNum": 20,
+              "title": "Python — Advanced Practice 18",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Python — Advanced Practice 18",
+                  "type": "lecture",
+                  "duration": 48,
+                  "difficulty": "easy",
+                  "notes": "Space your revision sessions — don't cram"
+                },
+                {
+                  "topic": "Practice: Python — Advanced Practice 18",
+                  "type": "practice",
+                  "duration": 48,
+                  "difficulty": "easy",
+                  "notes": "Eliminate distractions — use focus mode on your phone"
+                },
+                {
+                  "topic": "Revise: Python — Advanced Practice 18",
+                  "type": "revision",
+                  "duration": 24,
+                  "difficulty": "medium",
+                  "notes": "Review notes within 24 hours to improve retention by 60%"
+                }
+              ]
+            },
+            {
+              "dayNum": 21,
+              "title": "Buffer Day — Review & Catch-up",
+              "isBuffer": true,
+              "sessions": [
+                {
+                  "topic": "Review & catch-up",
+                  "type": "buffer",
+                  "duration": 120,
+                  "difficulty": "easy",
+                  "notes": "Test yourself with practice problems after each topic"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "weekNum": 4,
+          "title": "Advanced Topics",
+          "goals": [
+            "Complete all 6 study sessions",
+            "Master: Python — Deep Dive 18",
+            "Review and self-test at end of week"
+          ],
+          "days": [
+            {
+              "dayNum": 22,
+              "title": "Python — Deep Dive 18",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Python — Deep Dive 18",
+                  "type": "lecture",
+                  "duration": 60,
+                  "difficulty": "easy",
+                  "notes": "Practice active recall instead of passive re-reading"
+                },
+                {
+                  "topic": "Practice: Python — Deep Dive 18",
+                  "type": "practice",
+                  "duration": 60,
+                  "difficulty": "easy",
+                  "notes": "Connect new concepts to what you already know"
+                }
+              ]
+            },
+            {
+              "dayNum": 23,
+              "title": "Revision: Functions & Scope",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Revision: Functions & Scope",
+                  "type": "lecture",
+                  "duration": 48,
+                  "difficulty": "easy",
+                  "notes": "Eliminate distractions — use focus mode on your phone"
+                },
+                {
+                  "topic": "Practice: Revision: Functions & Scope",
+                  "type": "practice",
+                  "duration": 48,
+                  "difficulty": "easy",
+                  "notes": "Use the Pomodoro technique — 25 min focus, 5 min break"
+                },
+                {
+                  "topic": "Revise: Revision: Functions & Scope",
+                  "type": "revision",
+                  "duration": 24,
+                  "difficulty": "medium",
+                  "notes": "Eliminate distractions — use focus mode on your phone"
+                }
+              ]
+            },
+            {
+              "dayNum": 24,
+              "title": "Python — Advanced Practice 21",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Practice: Python — Advanced Practice 21",
+                  "type": "practice",
+                  "duration": 72,
+                  "difficulty": "easy",
+                  "notes": "Create mind maps to visualize connections between topics"
+                },
+                {
+                  "topic": "Revise: Python — Advanced Practice 21",
+                  "type": "revision",
+                  "duration": 48,
+                  "difficulty": "easy",
+                  "notes": "Space your revision sessions — don't cram"
+                }
+              ]
+            },
+            {
+              "dayNum": 25,
+              "title": "Python — Deep Dive 21",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Python — Deep Dive 21",
+                  "type": "lecture",
+                  "duration": 42,
+                  "difficulty": "easy",
+                  "notes": "Teach the concept to someone else to reinforce understanding"
+                },
+                {
+                  "topic": "Practice: Python — Deep Dive 21",
+                  "type": "practice",
+                  "duration": 42,
+                  "difficulty": "easy",
+                  "notes": "Teach the concept to someone else to reinforce understanding"
+                },
+                {
+                  "topic": "Revise: Python — Deep Dive 21",
+                  "type": "project",
+                  "duration": 36,
+                  "difficulty": "medium",
+                  "notes": "Get 7-8 hours of sleep — memory consolidates during sleep"
+                }
+              ]
+            },
+            {
+              "dayNum": 26,
+              "title": "Revision: Control Flow (if/else)",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Revision: Control Flow (if/else)",
+                  "type": "lecture",
+                  "duration": 60,
+                  "difficulty": "easy",
+                  "notes": "Break complex topics into smaller, manageable chunks"
+                },
+                {
+                  "topic": "Practice: Revision: Control Flow (if/else)",
+                  "type": "practice",
+                  "duration": 60,
+                  "difficulty": "easy",
+                  "notes": "Use the Pomodoro technique — 25 min focus, 5 min break"
+                }
+              ]
+            },
+            {
+              "dayNum": 27,
+              "title": "Python — Advanced Practice 24",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Python — Advanced Practice 24",
+                  "type": "lecture",
+                  "duration": 48,
+                  "difficulty": "easy",
+                  "notes": "Review notes within 24 hours to improve retention by 60%"
+                },
+                {
+                  "topic": "Practice: Python — Advanced Practice 24",
+                  "type": "practice",
+                  "duration": 48,
+                  "difficulty": "easy",
+                  "notes": "Get 7-8 hours of sleep — memory consolidates during sleep"
+                },
+                {
+                  "topic": "Revise: Python — Advanced Practice 24",
+                  "type": "revision",
+                  "duration": 24,
+                  "difficulty": "medium",
+                  "notes": "Break complex topics into smaller, manageable chunks"
+                }
+              ]
+            },
+            {
+              "dayNum": 28,
+              "title": "Buffer Day — Review & Catch-up",
+              "isBuffer": true,
+              "sessions": [
+                {
+                  "topic": "Review & catch-up",
+                  "type": "buffer",
+                  "duration": 120,
+                  "difficulty": "easy",
+                  "notes": "Get 7-8 hours of sleep — memory consolidates during sleep"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "saved_at": "2026-03-19T17:43:21.957952",
+      "plan_id": "plan_1_20260319174321"
+    },
+    {
+      "title": "Gardenig Study Plan",
+      "description": "Personalized beginner plan for Gardenig — 1 weeks, 1.0h/day. Generated March 19, 2026 at 05:43 PM.",
+      "subject": "gardenig",
+      "difficulty": "beginner",
+      "hoursPerDay": 1.0,
+      "totalDays": 7,
+      "generatedAt": "2026-03-19T17:43:58.698348",
+      "goals": [
+        "Research"
+      ],
+      "milestones": [
+        "Complete Week 1 — Foundations established",
+        "Reach 50% — Foundations of Gardenig mastered",
+        "Final week complete — Gardenig mastered ✓"
+      ],
+      "weeks": [
+        {
+          "weekNum": 1,
+          "title": "Foundations of Gardenig",
+          "goals": [
+            "Complete all 6 study sessions",
+            "Master: Introduction & Overview",
+            "Review and self-test at end of week"
+          ],
+          "days": [
+            {
+              "dayNum": 1,
+              "title": "Introduction & Overview",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Introduction & Overview",
+                  "type": "lecture",
+                  "duration": 30,
+                  "difficulty": "easy",
+                  "notes": "Space your revision sessions — don't cram"
+                },
+                {
+                  "topic": "Practice: Introduction & Overview",
+                  "type": "practice",
+                  "duration": 30,
+                  "difficulty": "easy",
+                  "notes": "Space your revision sessions — don't cram"
+                }
+              ]
+            },
+            {
+              "dayNum": 2,
+              "title": "Core Concepts Part 1",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Core Concepts Part 1",
+                  "type": "lecture",
+                  "duration": 24,
+                  "difficulty": "easy",
+                  "notes": "Teach the concept to someone else to reinforce understanding"
+                },
+                {
+                  "topic": "Practice: Core Concepts Part 1",
+                  "type": "practice",
+                  "duration": 24,
+                  "difficulty": "easy",
+                  "notes": "Eliminate distractions — use focus mode on your phone"
+                },
+                {
+                  "topic": "Revise: Core Concepts Part 1",
+                  "type": "revision",
+                  "duration": 15,
+                  "difficulty": "medium",
+                  "notes": "Space your revision sessions — don't cram"
+                }
+              ]
+            },
+            {
+              "dayNum": 3,
+              "title": "Core Concepts Part 2",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Practice: Core Concepts Part 2",
+                  "type": "practice",
+                  "duration": 36,
+                  "difficulty": "easy",
+                  "notes": "Space your revision sessions — don't cram"
+                },
+                {
+                  "topic": "Revise: Core Concepts Part 2",
+                  "type": "revision",
+                  "duration": 24,
+                  "difficulty": "easy",
+                  "notes": "Practice active recall instead of passive re-reading"
+                }
+              ]
+            },
+            {
+              "dayNum": 4,
+              "title": "Fundamentals Deep Dive",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Fundamentals Deep Dive",
+                  "type": "lecture",
+                  "duration": 21,
+                  "difficulty": "easy",
+                  "notes": "Test yourself with practice problems after each topic"
+                },
+                {
+                  "topic": "Practice: Fundamentals Deep Dive",
+                  "type": "practice",
+                  "duration": 21,
+                  "difficulty": "easy",
+                  "notes": "Connect new concepts to what you already know"
+                },
+                {
+                  "topic": "Revise: Fundamentals Deep Dive",
+                  "type": "project",
+                  "duration": 18,
+                  "difficulty": "medium",
+                  "notes": "Practice active recall instead of passive re-reading"
+                }
+              ]
+            },
+            {
+              "dayNum": 5,
+              "title": "Practical Applications",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Practical Applications",
+                  "type": "lecture",
+                  "duration": 30,
+                  "difficulty": "easy",
+                  "notes": "Use the Pomodoro technique — 25 min focus, 5 min break"
+                },
+                {
+                  "topic": "Practice: Practical Applications",
+                  "type": "practice",
+                  "duration": 30,
+                  "difficulty": "easy",
+                  "notes": "Eliminate distractions — use focus mode on your phone"
+                }
+              ]
+            },
+            {
+              "dayNum": 6,
+              "title": "Case Studies & Examples",
+              "isBuffer": false,
+              "sessions": [
+                {
+                  "topic": "Case Studies & Examples",
+                  "type": "lecture",
+                  "duration": 24,
+                  "difficulty": "easy",
+                  "notes": "Space your revision sessions — don't cram"
+                },
+                {
+                  "topic": "Practice: Case Studies & Examples",
+                  "type": "practice",
+                  "duration": 24,
+                  "difficulty": "easy",
+                  "notes": "Create mind maps to visualize connections between topics"
+                },
+                {
+                  "topic": "Revise: Case Studies & Examples",
+                  "type": "revision",
+                  "duration": 15,
+                  "difficulty": "medium",
+                  "notes": "Connect new concepts to what you already know"
+                }
+              ]
+            },
+            {
+              "dayNum": 7,
+              "title": "Buffer Day — Review & Catch-up",
+              "isBuffer": true,
+              "sessions": [
+                {
+                  "topic": "Review & catch-up",
+                  "type": "buffer",
+                  "duration": 60,
+                  "difficulty": "easy",
+                  "notes": "Practice active recall instead of passive re-reading"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "saved_at": "2026-03-19T17:43:58.701051",
+      "plan_id": "plan_2_20260319174358"
+    }
+  ],
+  "active_plan_id": "plan_2_20260319174358",
+  "plan_generated_at": "2026-03-19T17:43:58.701051",
+  "cs_plan_1_20260319174321": {},
+  "md_plan_1_20260319174321": [],
+  "completed_sessions": {
+    "0_1_0": true,
+    "0_1_1": true
+  },
+  "missed_days": [],
+  "cs_plan_2_20260319174358": {
+    "0_1_0": true,
+    "0_1_1": true
+  },
+  "md_plan_2_20260319174358": [],
+  "quiz_scores": [
+    {
+      "correct": true,
+      "quiz_id": null,
+      "topic": "How should you handle a difficult concep",
+      "ts": "2026-03-19T17:45:35.966213"
+    },
+    {
+      "correct": true,
+      "quiz_id": null,
+      "topic": "How should you handle a difficult concep",
+      "ts": "2026-03-19T17:45:35.984336"
+    },
+    {
+      "correct": true,
+      "quiz_id": null,
+      "topic": "What percentage of information do people",
+      "ts": "2026-03-19T17:45:36.000380"
+    },
+    {
+      "correct": true,
+      "quiz_id": null,
+      "topic": "How long should a Pomodoro focus session",
+      "ts": "2026-03-19T17:45:36.018970"
+    },
+    {
+      "correct": true,
+      "quiz_id": null,
+      "topic": "What is the recommended approach when fi",
+      "ts": "2026-03-19T17:45:36.034542"
+    }
+  ]
+}

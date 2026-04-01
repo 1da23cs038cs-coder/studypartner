@@ -1,0 +1,52 @@
+{
+  "student@studyai.com": {
+    "name": "Alex Johnson",
+    "email": "student@studyai.com",
+    "password": "$2b$12$fYh/oPijUhi8DJsCgJ.YIePxuStoX4wFPj.JGei45eaewETBCFJk2",
+    "role": "Student",
+    "avatar": "AJ",
+    "photo": null,
+    "bio": "",
+    "created_at": "2026-03-19T17:42:42.056006"
+  },
+  "admin@studyai.com": {
+    "name": "Dr. Priya Menon",
+    "email": "admin@studyai.com",
+    "password": "$2b$12$IkYbc3jLa/f2yyADnoYSlO45ywoz7rO9hfebV9btCDHCanYmvV5Xm",
+    "role": "Educator",
+    "avatar": "DP",
+    "photo": null,
+    "bio": "",
+    "created_at": "2026-03-19T17:42:42.345764"
+  },
+  "lekhanacr25@gmail.com": {
+    "name": "Lekhana",
+    "email": "lekhanacr25@gmail.com",
+    "password": "$2b$12$nNKZz02b5mZFRs0DJFnqC.JP6QXSbwUEDY.Zs5uZpztDDoaSFI9ue",
+    "role": "Student",
+    "avatar": "L",
+    "photo": null,
+    "bio": "",
+    "created_at": "2026-03-19T17:43:09.257812"
+  },
+  "1da23cs038.cs@drait.edu.in": {
+    "name": "Chetushri k n",
+    "email": "1da23cs038.cs@drait.edu.in",
+    "password": "$2b$12$ehTXH5UyOh5b486uEBukMO.gBf33xxhX8WMHgmtIrUOHuV0VMGjdO",
+    "role": "Student",
+    "avatar": "CK",
+    "photo": null,
+    "bio": "",
+    "created_at": "2026-03-20T13:20:03.046562"
+  },
+  "chetushri09@gmail.com": {
+    "name": "chetu",
+    "email": "chetushri09@gmail.com",
+    "password": "$2b$12$jEqFZ7iBdq3Dg4yFVeIPqOr8txQxkZdhozvpdo6vToSmcRgWc4YEy",
+    "role": "Student",
+    "avatar": "C",
+    "photo": null,
+    "bio": "",
+    "created_at": "2026-03-30T17:11:34.726079"
+  }
+}
